@@ -1,8 +1,8 @@
 Webcam.attach('#camera' );
 camera=document.getElementById("camera")
 Webcam.set({
-  width : 600,
-  height:600,
+  width : 350,
+  height : 350,
   image_format: 'png',
   png_quality: 90
 });
